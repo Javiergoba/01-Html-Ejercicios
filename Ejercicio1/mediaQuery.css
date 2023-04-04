@@ -1,0 +1,26 @@
+@media screen and (max-width: 600px){
+    #main{
+         flex-direction: column;
+         }
+    #aside{
+        background-color: blue;
+        width: auto;
+        margin-top: 10px;
+        
+    }
+    #seccion{
+        width: auto;
+        
+    }
+    .articulo1{
+        width: auto;
+    }
+    .articulo2{
+        width: auto;
+    }
+
+
+}
+@media screen and (max-width: 400px){
+
+}
