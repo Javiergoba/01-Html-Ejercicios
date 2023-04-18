@@ -8,6 +8,8 @@
     }
     main{
         width: auto;
+        display: flex;
+        flex-direction: column;
     }
     
     .nav{
@@ -21,6 +23,10 @@
     .principal{
         background: yellow;
         
+    }
+    main{
+       
+        flex-direction: column;
     }
     
 }

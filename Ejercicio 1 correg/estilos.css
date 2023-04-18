@@ -10,10 +10,10 @@
     display: flex;
     flex-flow: column nowrap;    
 }
-#headerprincipal{
+/*#headerprincipal{
     background: grey;
    
-}
+}*/
 .nav{
    background: blueviolet;
    display: flex;
