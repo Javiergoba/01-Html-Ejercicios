@@ -1,0 +1,112 @@
+*{
+    max-width: 1200px;
+    margin: 10px;
+    padding: 10px;
+    
+
+}
+.principal{
+    background-color: black;
+    display: flex;
+    flex-flow: column nowrap;    
+}
+#headerprincipal{
+    background: grey;
+   
+}
+.nav{
+   background: blueviolet;
+   display: flex;
+   flex-flow: row nowrap;
+   
+
+}
+
+#box1{
+    background-color: aqua;
+    flex: 1 1 auto;
+  
+}
+#box2{
+    background-color: aqua;
+    flex: 4 1 auto;
+   
+}
+#box3{
+    background-color: aqua;
+    flex: 1 1 auto;
+
+}
+
+.header{
+    background-color: rgb(28, 130, 93);
+  
+}
+#box4{
+    background-color: royalblue;
+
+}
+
+main{
+    background-color: black;
+    display: flex;
+    
+
+}
+.seccion{
+    background-color: blue;
+    flex:  2 1 auto;
+    display: flex;
+    flex-flow: row wrap;
+
+
+    
+}
+            #article1{
+                background-color: green;
+                flex: 1 1 40%;
+                
+               
+            }
+            #article2{
+                background-color: green;
+                flex: 1 1 40%;
+               
+            }
+            #article3{
+                background-color: green;
+                flex: 1 1 40%;
+              
+            }
+            #article4{
+                background-color: green;
+                flex: 1 1 40%;
+           
+            }
+            #article5{
+                background: yellowgreen;
+                flex: 1 1 100%;
+                
+            }
+.aside{
+    background: red;
+    flex:  1 1 auto;
+    
+}
+            #parrafo1{
+                background: orange;
+            
+            }
+            #parrafo2{
+                background: orange;
+            
+            }
+footer{
+    background: black;
+   
+
+}
+            #feet{
+                background: yellow;
+    
+}                          
